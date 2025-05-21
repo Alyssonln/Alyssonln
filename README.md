@@ -30,16 +30,3 @@ Me chamo Alysson Leandro Nunes, atualmente estou cursando Análise e Desenvolvim
 </div>
 
 ---
-
-### 🌐 Redes sociais
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alysson-nunes">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/alyssonlnunes/">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
