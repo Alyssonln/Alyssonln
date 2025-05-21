@@ -1,5 +1,3 @@
-![snake gif](https://github.com/Alyssonln/Alyssonln/blob/output/github-contribution-grid-snake.gif)
-
 # 👨‍💻 Alysson Nunes
 
 **`Desenvolvedor FullStack`**
@@ -32,3 +30,4 @@ Me chamo Alysson Leandro Nunes, atualmente estou cursando Análise e Desenvolvim
 </div>
 
 ---
+![snake gif](https://github.com/Alyssonln/Alyssonln/blob/output/github-contribution-grid-snake.gif)
