@@ -1,10 +1,8 @@
-<h1 align="start">👨‍💻 Alyssonln</h1>
+# 👨‍💻 Alysson Nunes
 
 **`Desenvolvedora FullStack`**
 
-<p align="start">
-  Me chamo Alysson Leandro Nunes, atualmente estou cursando Análise e Desenvolvimento de Sistemas e tenho uma grande paixão por programação e tecnologia. <br> Desde que comecei a estudar, descobri o quanto gosto de criar coisas do zero e ver uma ideia ganhar vida com código. <br> Estou sempre em aprendizado contínuo, buscando evoluir, experimentar novas tecnologias e me tornar um desenvolvedor cada vez melhor.
-</p>
+Me chamo Alysson Leandro Nunes, atualmente estou cursando Análise e Desenvolvimento de Sistemas e tenho uma grande paixão por programação e tecnologia. Desde que comecei a estudar, descobri o quanto gosto de criar coisas do zero e ver uma ideia ganhar vida com código. Estou sempre buscando evoluir, experimentar novas tecnologias e me tornar um desenvolvedor cada vez melhor.
 
 ---
 
@@ -19,7 +17,6 @@
 ![SQL](https://skillicons.dev/icons?i=mysql)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Docker](https://skillicons.dev/icons?i=docker)
 
 ---
