@@ -1,5 +1,7 @@
 <h1 align="start">👨‍💻 Alyssonln</h1>
 
+**`Desenvolvedora FullStack`**
+
 <p align="start">
   Me chamo Alysson Leandro Nunes, atualmente estou cursando Análise e Desenvolvimento de Sistemas e tenho uma grande paixão por programação e tecnologia. <br> Desde que comecei a estudar, descobri o quanto gosto de criar coisas do zero e ver uma ideia ganhar vida com código. <br> Estou sempre em aprendizado contínuo, buscando evoluir, experimentar novas tecnologias e me tornar um desenvolvedor cada vez melhor.
 </p>
