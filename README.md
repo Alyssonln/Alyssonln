@@ -1,6 +1,6 @@
 # 👨‍💻 Alysson Nunes
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Alysson Leandro Nunes, atualmente estou cursando Análise e Desenvolvimento de Sistemas e tenho uma grande paixão por programação e tecnologia. Desde que comecei a estudar, descobri o quanto gosto de criar coisas do zero e ver uma ideia ganhar vida com código. Estou sempre buscando evoluir, experimentar novas tecnologias e me tornar um desenvolvedor cada vez melhor.
 
