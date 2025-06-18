@@ -2,7 +2,12 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Alysson Leandro Nunes, atualmente estou cursando Análise e Desenvolvimento de Sistemas e tenho uma grande paixão por programação e tecnologia. Desde que comecei a estudar, descobri o quanto gosto de criar coisas do zero e ver uma ideia ganhar vida com código. Estou sempre buscando evoluir, experimentar novas tecnologias e me tornar um desenvolvedor cada vez melhor.
+Me chamo Alysson Leandro Nunes, estudante de Análise e Desenvolvimento de Sistemas.
+Tenho foco em desenvolvimento prático, aprendizado constante e em me tornar um desenvolvedor cada vez melhor.
+
+Aqui compartilho minha jornada: estudos, testes, projetos pessoais e muita prática.
+
+Este GitHub é meu portfólio em construção — onde cada repositório representa um passo na minha evolução.
 
 ---
 
