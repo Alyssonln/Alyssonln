@@ -17,7 +17,7 @@ Aqui compartilho minha jornada: estudos, testes, projetos pessoais e muita prát
 ![TypeScript](https://skillicons.dev/icons?i=ts)&nbsp;&nbsp;&nbsp;
 ![React](https://skillicons.dev/icons?i=react)&nbsp;&nbsp;&nbsp;
 ![Next.js](https://skillicons.dev/icons?i=nextjs)&nbsp;&nbsp;&nbsp;
-![Tailwind](https://skillicons.dev/icons?i=tailwind)&nbsp;&nbsp;&nbsp;
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)&nbsp;&nbsp;&nbsp;
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)&nbsp;&nbsp;&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
