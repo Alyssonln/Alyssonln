@@ -20,7 +20,6 @@ Aqui compartilho minha jornada: estudos, testes, projetos pessoais e muita prát
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)&nbsp;&nbsp;&nbsp;
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)&nbsp;&nbsp;&nbsp;
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Git](https://skillicons.dev/icons?i=git)
 
 ---
