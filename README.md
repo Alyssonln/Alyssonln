@@ -1,6 +1,6 @@
 # 👨‍💻 Alysson Nunes
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Mobile`**
 
 Me chamo Alysson Leandro Nunes, estudante de Análise e Desenvolvimento de Sistemas.
 Tenho foco em desenvolvimento prático, aprendizado constante e em me tornar um desenvolvedor cada vez melhor.
